@@ -1,0 +1,14 @@
+{
+  "name": "Michael Chiang",
+  "version": "1.0.0",
+  "description": "Blockchain in JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
